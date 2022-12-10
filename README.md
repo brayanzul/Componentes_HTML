@@ -1,6 +1,6 @@
 # Componentes_HTML
 
-![Alerta-Formulario](https://user-images.githubusercontent.com/62777613/206825084-c53120d8-03e0-496d-a66a-cb210b50c498.png)
+![Comp](https://user-images.githubusercontent.com/62777613/206825423-3b1b6f93-5c6d-4801-8502-a2146282a37f.png)
 
 If you click: Link to Text Components you will see this:
 We add a new paragraph,
